@@ -1,0 +1,17 @@
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\bin\Debug\DemoListeCourse.exe.config
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\bin\Debug\DemoListeCourse.exe
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\bin\Debug\DemoListeCourse.pdb
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\MainWindow.g.cs
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\App.g.cs
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse_MarkupCompile.cache
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse_MarkupCompile.lref
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\MainWindow.baml
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.g.resources
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.Properties.Resources.resources
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.csproj.GenerateResource.cache
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.exe
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.pdb
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\App.baml
+C:\Users\renau\OneDrive\Projets\DemoListeCourse\DemoListeCourse\obj\Debug\DemoListeCourse.csprojAssemblyReference.cache

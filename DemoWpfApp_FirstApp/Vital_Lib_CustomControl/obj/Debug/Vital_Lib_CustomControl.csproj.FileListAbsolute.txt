@@ -1,0 +1,14 @@
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\bin\Debug\Vital_Lib_CustomControl.dll
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\bin\Debug\Vital_Lib_CustomControl.pdb
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl_MarkupCompile.cache
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl_MarkupCompile.lref
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Themes\Generic.baml
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl.g.resources
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl.Properties.Resources.resources
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl.csproj.GenerateResource.cache
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl.dll
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Vital_Lib_CustomControl.pdb
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\renau\OneDrive\Projets\WpfFirstApp\Vital_Lib_CustomControl\obj\Debug\Styles\TextBlockStyles.baml

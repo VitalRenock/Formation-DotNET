@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[Game]
+(
+	[Id] INT NOT NULL IDENTITY,
+	[Title] NVARCHAR(50) NOT NULL,
+	[Cote] INT NOT NULL,
+	[Editor] NVARCHAR(50) NOT NULL,
+	[TypeGame] NVARCHAR(20) NOT NULL,
+	[NbJoueurs] INT NOT NULL,
+	[Plateform] NVARCHAR(20) NOT NULL,
+
+    CONSTRAINT [PK_Game] PRIMARY KEY ([Id]) 
+)

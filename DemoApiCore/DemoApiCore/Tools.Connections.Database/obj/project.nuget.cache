@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwAusBC+4ZsuR3RCP8xM/WSko3mel2VsaMvns8VYynpx9EpEBVLSawrXhYzdDUT2ydX1tj03f2qOhyr1OWK0OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renau\\OneDrive\\Projets\\Applications\\Formation DotNET\\DemoApiCore\\DemoApiCore\\Tools.Connections.Database\\Tools.Connections.Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renau\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\renau\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

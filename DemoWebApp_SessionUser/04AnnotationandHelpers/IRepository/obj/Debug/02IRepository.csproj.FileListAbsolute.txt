@@ -1,0 +1,12 @@
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\IRepository\bin\Debug\IRepository.dll
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\IRepository\bin\Debug\IRepository.pdb
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\IRepository\obj\Debug\02IRepository.csprojAssemblyReference.cache
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\IRepository\obj\Debug\02IRepository.csproj.CoreCompileInputs.cache
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\IRepository\obj\Debug\IRepository.dll
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\IRepository\obj\Debug\IRepository.pdb
+C:\Users\renau\OneDrive\Projets\SessionUser\04AnnotationandHelpers\IRepository\bin\Debug\IRepository.dll
+C:\Users\renau\OneDrive\Projets\SessionUser\04AnnotationandHelpers\IRepository\bin\Debug\IRepository.pdb
+C:\Users\renau\OneDrive\Projets\SessionUser\04AnnotationandHelpers\IRepository\obj\Debug\02IRepository.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\SessionUser\04AnnotationandHelpers\IRepository\obj\Debug\02IRepository.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\SessionUser\04AnnotationandHelpers\IRepository\obj\Debug\IRepository.dll
+C:\Users\renau\OneDrive\Projets\SessionUser\04AnnotationandHelpers\IRepository\obj\Debug\IRepository.pdb

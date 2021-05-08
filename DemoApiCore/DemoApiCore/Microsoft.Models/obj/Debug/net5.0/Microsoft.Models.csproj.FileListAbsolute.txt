@@ -1,0 +1,45 @@
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.deps.json
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\bin\Debug\net5.0\ref\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\bin\Debug\net5.0\Tools.Connections.Database.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\bin\Debug\net5.0\Tools.Connections.Database.pdb
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csprojAssemblyReference.cache
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.AssemblyInfoInputs.cache
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.AssemblyInfo.cs
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csproj.CopyComplete
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\ref\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.deps.json
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\ref\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Tools.Connections.Database.dll
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Tools.Connections.Database.pdb
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csprojAssemblyReference.cache
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.AssemblyInfoInputs.cache
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.AssemblyInfo.cs
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csproj.CopyComplete
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\ref\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.deps.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\ref\Microsoft.Models.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Tools.Connections.Database.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\bin\Debug\net5.0\Tools.Connections.Database.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.AssemblyInfoInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.AssemblyInfo.cs
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.csproj.CopyComplete
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\ref\Microsoft.Models.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Microsoft.Models\obj\Debug\net5.0\Microsoft.Models.pdb

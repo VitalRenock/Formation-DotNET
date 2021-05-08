@@ -1,0 +1,17 @@
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\bin\Debug\netstandard2.0\Tools.Connections.Database.deps.json
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\bin\Debug\netstandard2.0\Tools.Connections.Database.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\bin\Debug\netstandard2.0\Tools.Connections.Database.pdb
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.AssemblyInfoInputs.cache
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.AssemblyInfo.cs
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.csproj.CoreCompileInputs.cache
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.dll
+C:\Users\Briar\source\repos\DemoSingletonToDependencyInjection\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\bin\Debug\netstandard2.0\Tools.Connections.Database.deps.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\bin\Debug\netstandard2.0\Tools.Connections.Database.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\bin\Debug\netstandard2.0\Tools.Connections.Database.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.AssemblyInfoInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.AssemblyInfo.cs
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\Tools.Connections.Database\obj\Debug\netstandard2.0\Tools.Connections.Database.pdb

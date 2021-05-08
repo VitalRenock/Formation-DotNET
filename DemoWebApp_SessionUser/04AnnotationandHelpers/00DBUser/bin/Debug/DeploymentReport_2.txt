@@ -1,0 +1,35 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[AspUser] (Table)
+       [dbo].[AspUser_UserRight] (Table)
+       [dbo].[UserRight] (Table)
+       [dbo].[FK_ToUserId] (Clé étrangère)
+       [dbo].[FK_ToRightId] (Clé étrangère)
+       [dbo].[CK_AspUser_BirthDate] (Contrainte de validation)
+       [dbo].[CK_AspUser_RegNational] (Contrainte de validation)
+       [dbo].[V_AspUser_Enable] (Vue)
+       [dbo].[SF_SaltAndHash] (Fonction)
+       [dbo].[SP_AspUser_CheckPassword] (Procédure)
+       [dbo].[SP_AspUser_Delete] (Procédure)
+       [dbo].[SP_AspUser_GetAll] (Procédure)
+       [dbo].[SP_AspUser_GetById] (Procédure)
+       [dbo].[SP_AspUser_HaveAdminRight] (Procédure)
+       [dbo].[SP_AspUser_HaveDefaultRight] (Procédure)
+       [dbo].[SP_AspUser_Insert] (Procédure)
+       [dbo].[SP_AspUser_Update] (Procédure)
+       [dbo].[SP_UserRight_DenyAdmin] (Procédure)
+       [dbo].[SP_UserRight_DenyDefault] (Procédure)
+       [dbo].[SP_UserRight_GrantAdmin] (Procédure)
+       [dbo].[SP_UserRight_GrantDefault] (Procédure)
+
+** Actions de support

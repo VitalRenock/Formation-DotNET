@@ -1,0 +1,9 @@
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\bin\Debug\ModelGlobal.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\bin\Debug\ModelGlobal.pdb
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\bin\Debug\VitalTools.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\bin\Debug\VitalTools.pdb
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\obj\Debug\ModelGlobal.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\obj\Debug\ModelGlobal.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\obj\Debug\ModelGlobal.csproj.CopyComplete
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\obj\Debug\ModelGlobal.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelGlobal\obj\Debug\ModelGlobal.pdb

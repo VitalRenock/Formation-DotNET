@@ -1,0 +1,6 @@
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\01ConnectionTool\bin\Debug\01ConnectionTool.dll
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\01ConnectionTool\bin\Debug\01ConnectionTool.pdb
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\01ConnectionTool\obj\Debug\01ConnectionTool.csprojAssemblyReference.cache
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\01ConnectionTool\obj\Debug\01ConnectionTool.csproj.CoreCompileInputs.cache
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\01ConnectionTool\obj\Debug\01ConnectionTool.dll
+I:\sources\NetAngular2021\02-ASPMVC-Standard\Exercices\04AnnotationandHelpers\01ConnectionTool\obj\Debug\01ConnectionTool.pdb

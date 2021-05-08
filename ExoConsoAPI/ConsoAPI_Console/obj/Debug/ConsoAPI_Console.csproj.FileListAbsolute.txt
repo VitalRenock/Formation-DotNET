@@ -1,0 +1,10 @@
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\obj\Debug\ConsoAPI_Console.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\obj\Debug\ConsoAPI_Console.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\bin\Debug\ConsoAPI_Console.exe.config
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\bin\Debug\ConsoAPI_Console.exe
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\bin\Debug\ConsoAPI_Console.pdb
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\obj\Debug\ConsoAPI_Console.csproj.CopyComplete
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\obj\Debug\ConsoAPI_Console.exe
+C:\Users\renau\OneDrive\Projets\ExoConsoAPI\ConsoAPI_Console\obj\Debug\ConsoAPI_Console.pdb

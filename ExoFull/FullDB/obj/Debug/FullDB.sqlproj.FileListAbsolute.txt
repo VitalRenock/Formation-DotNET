@@ -1,0 +1,9 @@
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\bin\Debug\FullDB.dacpac
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\bin\Debug\FullDB.dll
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\bin\Debug\FullDB.pdb
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\obj\Debug\Model.xml
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\obj\Debug\refactor.xml
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\obj\Debug\postdeploy.sql
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\obj\Debug\predeploy.sql
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\obj\Debug\FullDB.dll
+C:\Users\renau\OneDrive\Projets\ExoFull\FullDB\obj\Debug\FullDB.pdb

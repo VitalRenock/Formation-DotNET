@@ -1,0 +1,6 @@
+C:\Users\renau\OneDrive\Projets\ExoWebAPI\IRepository\bin\Debug\IRepository.dll
+C:\Users\renau\OneDrive\Projets\ExoWebAPI\IRepository\bin\Debug\IRepository.pdb
+C:\Users\renau\OneDrive\Projets\ExoWebAPI\IRepository\obj\Debug\IRepository.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\ExoWebAPI\IRepository\obj\Debug\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\ExoWebAPI\IRepository\obj\Debug\IRepository.dll
+C:\Users\renau\OneDrive\Projets\ExoWebAPI\IRepository\obj\Debug\IRepository.pdb

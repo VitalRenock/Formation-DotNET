@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Microsoft.Models/1.0.0": {
+        "dependencies": {
+          "Tools.Connections.Database": "1.0.0"
+        },
+        "runtime": {
+          "Microsoft.Models.dll": {}
+        }
+      },
+      "Tools.Connections.Database/1.0.0": {
+        "runtime": {
+          "Tools.Connections.Database.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tools.Connections.Database/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

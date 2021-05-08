@@ -1,0 +1,78 @@
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\appsettings.json
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.exe
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.deps.json
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.runtimeconfig.json
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.runtimeconfig.dev.json
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\ref\DemoApiCore.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.pdb
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.csprojAssemblyReference.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.AssemblyInfoInputs.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.AssemblyInfo.cs
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.csproj.CoreCompileInputs.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\staticwebassets\DemoApiCore.StaticWebAssets.Manifest.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\staticwebassets\DemoApiCore.StaticWebAssets.xml
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\scopedcss\bundle\DemoApiCore.styles.css
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.csproj.CopyComplete
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\ref\DemoApiCore.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.pdb
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.genruntimeconfig.cache
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Microsoft.Models.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Tools.Connections.Database.dll
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\Briar\source\repos\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Tools.Connections.Database.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\appsettings.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.exe
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.deps.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.runtimeconfig.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.runtimeconfig.dev.json
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\ref\DemoApiCore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\DemoApiCore.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Microsoft.Models.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Tools.Connections.Database.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Microsoft.Models.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\bin\Debug\net5.0\Tools.Connections.Database.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.AssemblyInfoInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.AssemblyInfo.cs
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\staticwebassets\DemoApiCore.StaticWebAssets.Manifest.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\staticwebassets\DemoApiCore.StaticWebAssets.xml
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\scopedcss\bundle\DemoApiCore.styles.css
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.RazorTargetAssemblyInfo.cache
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.csproj.CopyComplete
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\ref\DemoApiCore.dll
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.pdb
+C:\Users\renau\OneDrive\Projets\Applications\Formation DotNET\DemoApiCore\DemoApiCore\DemoApiCore\obj\Debug\net5.0\DemoApiCore.genruntimeconfig.cache

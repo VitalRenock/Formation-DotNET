@@ -1,0 +1,9 @@
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\bin\Debug\ExoASPUserDB.dacpac
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\bin\Debug\ExoASPUserDB.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\bin\Debug\ExoASPUserDB.pdb
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\obj\Debug\Model.xml
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\obj\Debug\refactor.xml
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\obj\Debug\postdeploy.sql
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\obj\Debug\predeploy.sql
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\obj\Debug\ExoASPUserDB.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ExoASPUserDB\obj\Debug\ExoASPUserDB.pdb

@@ -1,0 +1,13 @@
+﻿<Application x:Class="DemoListeCourse.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DemoListeCourse"
+             xmlns:vm ="clr-namespace:DemoListeCourse.ViewModels"
+             StartupUri="MainWindow.xaml"
+             >
+    
+    <!--Réference de la ToolBox-->
+    <Application.Resources>
+        <vm:MainViewModel x:Key="MainVM" />
+    </Application.Resources>
+</Application>

@@ -1,0 +1,86 @@
+﻿<Window x:Class="WpfFirstApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vlcc="clr-namespace:Vital_Lib_CustomControl;assembly=Vital_Lib_CustomControl"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        WindowStyle="SingleBorderWindow"
+        ResizeMode="CanResize"
+        Background="DarkSlateBlue"
+        Margin="0"
+        Width="1024px"
+        Height="768px"
+        
+        DataContext="{Binding Source={StaticResource MainVM}}"
+        >
+        <!--DataContext pour la Demo List-->
+
+
+        <!--MaxWidth="1920px"-->
+        <!--MaxHeight="1080px"-->
+        <!--WindowState="Maximized"-->
+    
+    <!--L'idée serait que ce soit le contenu des plus bas enfants et la taille de la fenetre qui definisse la
+    taille et les marges des enfants-->
+
+    <!--à déplacer dans App.xaml-->
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Vital_Lib_CustomControl;component/Themes/Generic.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <ScrollViewer VerticalScrollBarVisibility="Hidden" 
+                  HorizontalAlignment="Center"
+                  Width="399">
+
+
+        <!--#region Demo List -->
+        
+        <StackPanel Orientation="Vertical">
+
+            <TextBlock>Demo Collection</TextBlock>
+
+            <Button Content="Ajouter Zaza" Command="{Binding AddPersonCommand}"></Button>
+
+            <ListBox ItemsSource="{Binding People}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <TextBlock Text="{Binding Firstname }" />
+                            <TextBlock Text="{Binding LastName}" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+        </StackPanel>
+        
+        <!--#endregion-->
+
+        <!--#region 1ère Démo - RelayCommand -->
+        
+        <!--<StackPanel Orientation="Vertical">
+            <TextBlock Style="{StaticResource TxtBlk_Idea}">Hello</TextBlock>
+            <Button Command="{Binding ActionUp}">+</Button>
+        </StackPanel>-->
+        
+        <!--#endregion-->
+
+        <!--<InlineUIContainer>
+            <UniformGrid Columns="3">
+                <TextBlock Style="{StaticResource TxtBlk_Alert}">Coucou</TextBlock>
+                <TextBlock Style="{StaticResource TxtBlk_Desc_Lorem}"></TextBlock>
+                <TextBlock Style="{StaticResource TxtBlk_Idea}"></TextBlock>
+                <TextBlock Style="{StaticResource TxtBlk_Info}"></TextBlock>
+                <TextBlock Style="{StaticResource TxtBlk_Promo_Lorem}"></TextBlock>
+                <TextBlock Style="{StaticResource TxtBlk_Valid}"></TextBlock>
+            </UniformGrid>
+        </InlineUIContainer>-->
+
+    </ScrollViewer>
+</Window>

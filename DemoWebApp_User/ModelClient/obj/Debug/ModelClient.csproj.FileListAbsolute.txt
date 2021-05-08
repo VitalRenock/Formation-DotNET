@@ -1,0 +1,11 @@
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\bin\Debug\ModelClient.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\bin\Debug\ModelClient.pdb
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\bin\Debug\ModelGlobal.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\bin\Debug\VitalTools.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\bin\Debug\VitalTools.pdb
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\bin\Debug\ModelGlobal.pdb
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\obj\Debug\ModelClient.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\obj\Debug\ModelClient.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\obj\Debug\ModelClient.csproj.CopyComplete
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\obj\Debug\ModelClient.dll
+C:\Users\renau\OneDrive\Projets\ExoASPUser\ModelClient\obj\Debug\ModelClient.pdb
